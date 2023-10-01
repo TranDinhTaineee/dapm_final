@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dapm_final.props" />
+</Project>
